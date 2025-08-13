@@ -28,13 +28,14 @@
 
 ---
 
-## 🛠 Technical Skills
-💻 **Languages:** Java ☕ | C | JavaScript | TypeScript | HTML | CSS  
-🎨 **Frontend:** React.js ⚛ | Angular | Tailwind CSS  
-⚙️ **Backend:** Spring Boot 🌱 | REST APIs  
-🗄 **Databases & Cloud:** MySQL 🐬 | Oracle 🏛 | AWS ☁ | SQL Server  
-🛠 **Tools:** IntelliJ IDEA | Git | GitHub | Eclipse | VS Code  
-🤝 **Soft Skills:** Communication | Teamwork | Adaptability  
+## 📊 Tech Stack & Tools
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,typescript,react,angular,bootstrap,tailwind" />
+  <br/>
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,aws,git,github,maven,vscode,idea,eclipse,postman" />
+</p>
 
 ---
 
@@ -74,8 +75,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi10299&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi10299&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi10299&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=ravi10299&theme=radical&border_radius=5" alt="GitHub Streak" />
 </p>
 
 ---
