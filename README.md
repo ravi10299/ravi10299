@@ -30,7 +30,7 @@
 
 ## 💼 Experience
 **🖥️ Full Stack Java Developer**  
-*Hindsol Software Private Limited* | Oct 2023 – Present | 📍 Varanasi, Uttar Pradesh  
+*Hindsol Software Private Limited* | Oct 2023 – Present 
 - 🛠️ Developing scalable web applications using **Spring Boot** and **React.js**  
 - 🔗 Created and maintained REST APIs, integrated with **MySQL** and **Oracle** databases  
 - 🎨 Designed responsive UIs using **Tailwind CSS** and **JavaScript**  
