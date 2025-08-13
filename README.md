@@ -1,14 +1,23 @@
-<h1 align="center">👋 Hi, I'm Ravi Kumar Verma</h1>
-<h3 align="center">💻 Full Stack Java Developer | 🚀 Passionate about building scalable and impactful web applications</h3>
-
+<!-- Typing Animation -->
 <p align="center">
-  📍 Varanasi, Uttar Pradesh, India  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ravi+Kumar+Verma;Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+AWS;Open+Source+Contributor;Problem+Solver+%F0%9F%92%AA" alt="Typing Animation" />
 </p>
 
+<!-- Wave Emoji -->
+<h1 align="center">
+  Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
+</h1>
+
+<!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/ravi-verma10299"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/ravi10299"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:ravi.verma10299@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/ravi-verma10299"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/ravi10299"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:ravi.verma10299@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
 ---
@@ -28,32 +37,54 @@
 
 ---
 
-## 📊 Tech Stack & Tools
+## 🛠 Skills
+**Languages:** Java ☕ | C | JavaScript | TypeScript | HTML | CSS  
+**Frontend:** React.js ⚛ | Angular | Tailwind CSS | Bootstrap  
+**Backend:** Spring Boot 🌱 | Spring Security | REST APIs  
+**Databases & Cloud:** MySQL 🐬 | Oracle 🏛 | AWS ☁ | SQL Server  
+**Tools:** IntelliJ IDEA | Git | GitHub | Eclipse | VS Code | Maven | Postman  
+**Soft Skills:** Communication | Teamwork | Adaptability  
+
+---
+
+## 📊 Tech Stack Graph
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,typescript,react,angular,bootstrap,tailwind" />
   <br/>
-  <!-- Databases & Tools -->
   <img src="https://skillicons.dev/icons?i=mysql,oracle,aws,git,github,maven,vscode,idea,eclipse,postman" />
 </p>
 
 ---
 
-## 📂 Projects
-### 📇 **Smart Contact Manager (SCM)**  
-*Java, Spring Boot, Spring MVC, MySQL, JavaScript* (Jul 2024 – Sep 2024)  
-- 🔑 User registration via **Email**, **Google**, and **GitHub**  
-- ☁ Contact image uploads stored in **AWS Cloud**  
-- ✉ Features: CRUD operations, email sending/receiving, secure login  
+## 🚀 Featured Projects
 
-### 🛒 **Store Billing Software**  
-*Java, Spring Boot, React.js, MySQL, JavaScript* (Jan 2023 – Oct 2023)  
-- 📦 Automated product management, billing, and inventory tracking  
-- 🧾 Implemented invoice generation, discount handling, and real-time stock updates  
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">📇 Smart Contact Manager</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="90%" alt="Smart Contact Manager"/>
+</p>
+<ul>
+<li>🔑 User authentication via Email, Google, GitHub</li>
+<li>☁ AWS Cloud for image storage</li>
+<li>✉ CRUD, email send/receive, secure login</li>
+</ul>
+</td>
 
-### 🌐 **Personal Portfolio Website**  
-*HTML, CSS, JavaScript* (Jul 2022 – Aug 2022)  
-- 📱 Responsive, single-page application showcasing skills, projects, and contact details  
+<td width="50%">
+<h3 align="center">🛒 Store Billing Software</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="90%" alt="Store Billing Software"/>
+</p>
+<ul>
+<li>📦 Automated product management, billing & inventory</li>
+<li>🧾 Invoice generation, discounts, real-time stock update</li>
+<li>💻 Built with Java, Spring Boot, React.js, MySQL</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,12 +106,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi10299&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi10299&layout=compact&theme=radical" alt="Top Languages" />
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=ravi10299&theme=radical&border_radius=5" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi10299&show_icons=true&theme=radical&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi10299&layout=compact&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=ravi10299&theme=radical&border_radius=5" height="160" />
 </p>
 
 ---
