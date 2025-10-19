@@ -56,7 +56,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 <table>
 <tr>
