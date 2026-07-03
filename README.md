@@ -1,116 +1,259 @@
-<!-- Typing Animation -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ravi+Kumar+Verma;Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+AWS;Open+Source+Contributor;Problem+Solver+%F0%9F%92%AA" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4facfe,50:00f2fe,100:43e97b&text=Ravi%20Kumar%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Angular%2021%20%7C%20React&descAlignY=58" />
 </p>
 
-<!-- Wave Emoji -->
-<h1 align="center">
-  Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
-</h1>
-
-<!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/ravi-verma10299"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/ravi10299"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:ravi.verma10299@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Java+Developer;2%2B+Years+of+Professional+Experience;Spring+Boot+%7C+Spring+Security+%7C+Spring+AI;Angular+21+%7C+React+%7C+Microservices;REST+API+Developer;Always+Learning+New+Technologies+🚀" />
 </p>
 
-<!-- Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
 
----
+<a href="mailto:ravi.verma10299@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🎯 Career Objective
-💼 Full Stack Java Developer with experience in **Spring Boot, React.js, and RESTful APIs**.  
-💡 Passionate about building scalable web apps and contributing to impactful software solutions in a growth-focused environment.
+<a href="https://linkedin.com/in/ravi10299">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="https://github.com/ravi10299">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-## 💼 Experience
-**🖥️ Full Stack Java Developer**  
-*Hindsol Software Private Limited* | Oct 2023 – Present 
-- 🛠️ Developing scalable web applications using **Spring Boot** and **React.js**  
-- 🔗 Created and maintained REST APIs, integrated with **MySQL** and **Oracle** databases  
-- 🎨 Designed responsive UIs using **Tailwind CSS** and **JavaScript**  
+<a href="https://ravi10299.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
----
-
-## 🛠 Skills
-**Languages:** Java ☕ | C | JavaScript | TypeScript | HTML | CSS  
-**Frontend:** React.js ⚛ | Angular | Tailwind CSS | Bootstrap  
-**Backend:** Spring Boot 🌱 | Spring Security | REST APIs  
-**Databases & Cloud:** MySQL 🐬 | Oracle 🏛 | AWS ☁ | SQL Server  
-**Tools:** IntelliJ IDEA | Git | GitHub | Eclipse | VS Code | Maven | Postman  
-**Soft Skills:** Communication | Teamwork | Adaptability  
-
----
-
-## 📊 Tech Stack Graph
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,typescript,react,angular,bootstrap,tailwind" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,aws,git,github,maven,vscode,idea,eclipse,postman" />
 </p>
 
 ---
 
-## 🚀 My Projects
+# 💫 About Me
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">📇 Smart Contact Manager</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="90%" alt="Smart Contact Manager"/>
-</p>
-<ul>
-<li>🔑 User authentication via Email, Google, GitHub</li>
-<li>☁ AWS Cloud for image storage</li>
-<li>✉ CRUD, email send/receive, secure login</li>
-</ul>
-</td>
+💻 Full Stack Java Developer with **2+ years** of professional experience in developing enterprise applications.
 
-<td width="50%">
-<h3 align="center">🛒 Store Billing Software</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="90%" alt="Store Billing Software"/>
-</p>
-<ul>
-<li>📦 Automated product management, billing & inventory</li>
-<li>🧾 Invoice generation, discounts, real-time stock update</li>
-<li>💻 Built with Java, Spring Boot, React.js, MySQL</li>
-</ul>
-</td>
-</tr>
-</table>
+🚀 Experienced in designing scalable software using
+
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring AI
+- Microservices
+- Angular 21
+- React.js
+
+I enjoy solving complex backend problems while building beautiful and responsive frontends.
 
 ---
 
-## 📚 Relevant Coursework
-📘 Data Structures & Algorithms  
-💽 Database Management Systems  
-🖥 Operating Systems  
-🌐 Computer Networks  
-📜 Software Engineering  
-🔒 Cryptography  
+# 🚀 Current Tech Stack
 
----
-
-## 🏆 Achievements
-- 🥇 4th place in **Codowar** coding competition (Jan 2022)  
-- 🏅 Solved **500+ DSA problems** on GeeksforGeeks, LeetCode, and HackerRank  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi10299&show_icons=true&theme=radical&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi10299&layout=compact&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com?user=ravi10299&theme=radical&border_radius=5" height="160" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,angular,typescript,javascript,html,css,tailwind,bootstrap,mysql,git,github,postman,vscode,idea,eclipse" />
+
 </p>
 
 ---
 
-⭐ *If you like my work, don't forget to give a star to my repositories!*
+# 💼 Professional Experience
+
+## 🏢 Hindsol Software Private Limited
+
+### Full Stack Java Developer
+
+**Nov 2023 - Present**
+
+✔ Developed scalable enterprise applications using Spring Boot, React & Angular.
+
+✔ Built secure REST APIs integrated with MySQL & Oracle.
+
+✔ Implemented Spring Security with OAuth Authentication.
+
+✔ Optimized Hibernate performance and database queries.
+
+✔ Designed responsive UI using Angular, Tailwind CSS & React.
+
+✔ API Testing using Postman.
+
+✔ Version control using Git & GitHub.
+
+---
+
+# 🚀 Featured Projects
+
+## 👨‍💼 Enterprise User Management System
+
+> Angular 21 • TypeScript • RxJS • REST API
+
+✨ Features
+
+- CRUD Operations
+- Angular Signals
+- Reactive Forms
+- Lazy Loading
+- HTTPClient
+- Tailwind CSS
+- Modular Architecture
+
+---
+
+## 🛒 Store Billing Software
+
+Spring Boot • React • MySQL
+
+⭐ Features
+
+- Inventory Management
+
+- Billing System
+
+- Invoice Generation
+
+- Real-Time Stock Update
+
+- Discount Management
+
+🔗 Repository
+
+https://github.com/ravi10299/Store-Billing-Software
+
+---
+
+## 🌐 Personal Portfolio
+
+Responsive Portfolio Website
+
+🔗
+
+https://ravi10299.github.io/portfolio/
+
+---
+
+# ⚙ Backend Skills
+
+```text
+Java
+Spring Boot
+Spring MVC
+Spring Security
+Spring AI
+Hibernate
+REST APIs
+Microservices
+JWT Authentication
+OAuth
+```
+
+---
+
+# 🎨 Frontend Skills
+
+```text
+Angular 21
+React
+TypeScript
+JavaScript
+HTML
+CSS
+Tailwind CSS
+Bootstrap
+RxJS
+Angular Signals
+```
+
+---
+
+# 🗄 Database
+
+```text
+MySQL
+Oracle
+SQL
+DDL
+DML
+DQL
+Joins
+Functions
+```
+
+---
+
+# 🛠 Development Tools
+
+```
+Git
+GitHub
+IntelliJ IDEA
+VS Code
+Eclipse
+Postman
+Maven
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravi10299&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi10299&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ravi10299&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ravi10299&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi10299&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 Achievement
+
+🏆 Solved **500+ DSA Problems**
+
+Platforms
+
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+
+---
+
+# 🎯 Career Goal
+
+> Building scalable enterprise applications using modern Java technologies while continuously exploring Cloud, AI, and Microservices architecture.
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://komarev.com/ghpvc/?username=ravi10299&style=for-the-badge&color=blue"/>
+
+</p>
