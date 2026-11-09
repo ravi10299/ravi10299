@@ -1,197 +1,243 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:14213D,100:0077B6&height=200&section=header&text=RAVI%20KUMAR%20VERMA&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=65&animation=fadeIn" width="100%" />
-</p>
+<!-- ================ ANIMATED HERO HEADER ================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Senior+Systems+Engineer+%40+Infosys;Java+%7C+Spring+Boot+%7C+Spring+Security;Angular+%7C+TypeScript+%7C+MySQL;Building+Scalable+Web+Applications" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,40:00d4ff,100:7b2ff7&height=250&section=header&text=Ravi%20Kumar%20Verma&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Senior%20Systems%20Engineer%20%7C%20Java%20Full%20Stack%20Developer&descSize=17&descAlignY=60" width="100%" />
+</p>
+
+<!-- ================ TYPING ANIMATION ================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=850&height=55&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Senior+Systems+Engineer+%40+Infosys;Spring+Boot+%7C+Spring+Security+%7C+Hibernate;Angular+21+%7C+TypeScript+%7C+MySQL;Building+Scalable+Web+Applications+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
   <a href="https://my-portfolio-five-eosin-43.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit%20Website-00D4FF?style=for-the-badge&labelColor=101827" />
   </a>
   <a href="https://linkedin.com/in/ravi10299">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101827" />
   </a>
   <a href="mailto:ravi.verma10299@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101827" />
   </a>
 </p>
 
 <br>
 
-<h2 align="center">⚡ ABOUT ME</h2>
+<!-- ================ ABOUT ME ================ -->
+
+<h2 align="center">✨ WHO AM I?</h2>
 
 <p align="center">
-  Java Full Stack Developer with <b>3 years of professional experience</b>,
-  currently working as a <b>Senior Systems Engineer at Infosys</b>.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=Passionate+about+Backend+Engineering;Love+Building+Modern+Web+Applications;Always+Learning+%7C+Always+Building" />
 </p>
 
 <p align="center">
-  Passionate about backend engineering, scalable web applications,
-  clean architecture and solving real-world development problems.
+  I'm <b>Ravi Kumar Verma</b>, a Java Full Stack Developer currently working as a
+  <b>Senior Systems Engineer at Infosys Limited</b>.
+  <br><br>
+  I have nearly <b>3 years of professional experience</b> in software development,
+  working with Java, Spring Boot, Angular and modern web technologies.
+  <br><br>
+  I enjoy designing REST APIs, optimizing database queries, developing responsive
+  interfaces and solving real-world programming problems.
 </p>
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>💼 EXPERIENCE</h3>
-      <b>3 Years</b><br>
-      Professional Development
-    </td>
-    <td align="center" width="50%">
-      <h3>🏢 CURRENT ROLE</h3>
-      <b>Senior Systems Engineer</b><br>
-      Infosys Limited
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>⚙️ BACKEND</h3>
-      Java & Spring Boot
-    </td>
-    <td align="center" width="50%">
-      <h3>🎨 FRONTEND</h3>
-      Angular & TypeScript
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">🛠️ TECHNICAL EXPERTISE</h2>
-
-<h3>⚡ Backend Development</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-Nearly%203%20Years-00D4FF?style=for-the-badge&labelColor=101827" />
+  <img src="https://img.shields.io/badge/Current%20Company-Infosys-7B2FF7?style=for-the-badge&labelColor=101827" />
+  <img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=for-the-badge&labelColor=101827" />
 </p>
 
-<p>
+---
+
+<!-- ================ TECH STACK ================ -->
+
+<h2 align="center">⚡ TECH STACK & EXPERTISE</h2>
+
+<h3 align="center">💻 Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-0088CC?style=flat-square" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST%20API-0096FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens" />
 </p>
 
-<h3>🎨 Frontend Development</h3>
+<h3 align="center">🎨 Frontend Development</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,tailwind,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind,bootstrap" />
 </p>
 
-<h3>🗄️ Database</h3>
+<h3 align="center">🗄️ Database & Tools</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,idea,eclipse" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Query%20Optimization-00897B?style=flat-square" />
 </p>
 
-<h3>🔧 Tools & Technologies</h3>
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse,maven" />
+<!-- ================ PROFESSIONAL EXPERIENCE ================ -->
+
+<h2 align="center">💼 PROFESSIONAL JOURNEY</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CURRENT-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white" />
 </p>
-
-<br>
-
-<h2 align="center">💼 PROFESSIONAL EXPERIENCE</h2>
 
 <table width="100%">
-  <tr>
-    <td>
-      <h3>🏢 Infosys Limited</h3>
-      <b>Senior Systems Engineer</b><br>
-      <code>August 2026 – Present</code>
-      <br><br>
-      • Working as a Senior Systems Engineer.<br>
-      • Focused on Java Full Stack development and enterprise technologies.<br>
-      • Continuously strengthening technical and problem-solving skills.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🏢 Hindsol Software Private Limited</h3>
-      <b>Full Stack Java Developer</b><br>
-      <code>November 2023 – July 2026</code>
-      <br><br>
-      • Developed backend functionality using Java and Spring Boot.<br>
-      • Designed and integrated RESTful APIs.<br>
-      • Implemented authentication using Spring Security and OAuth.<br>
-      • Built frontend components using Angular.<br>
-      • Worked with MySQL, Hibernate and database optimization.<br>
-      • Used Postman, Git and GitHub for development workflows.
-    </td>
-  </tr>
+<tr>
+<td width="100%">
+
+### 🏢 Infosys Limited
+
+**Senior Systems Engineer**
+
+📅 August 2026 – Present
+
+- Working as a Senior Systems Engineer.
+- Technical focus on Java Full Stack development.
+- Strengthening expertise in enterprise application development and problem-solving.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🏢 Hindsol Software Private Limited
+
+**Full Stack Java Developer**
+
+📅 November 2023 – July 2026
+
+- Developed backend functionality using Java and Spring Boot.
+- Designed and integrated RESTful APIs.
+- Implemented authentication and authorization using Spring Security and OAuth.
+- Developed responsive frontend components using Angular.
+- Worked with Hibernate and MySQL.
+- Optimized database queries using joins, indexing and pagination.
+- Performed API testing using Postman.
+- Used Git and GitHub for version control.
+
+</td>
+</tr>
 </table>
 
-<br>
+---
+
+<!-- ================ PROJECT SHOWCASE ================ -->
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
+<p align="center">
+  <i>Turning ideas into functional applications.</i>
+</p>
+
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 BuyNest</h3>
-      <p><b>Modern E-Commerce Application</b></p>
-      <p>
-        Angular 21 · TypeScript · Angular Material
-      </p>
-      <hr>
-      • Product browsing interface<br>
-      • Shopping cart workflows<br>
-      • Authentication workflows<br>
-      • Responsive UI<br>
-      <br>
-      <a href="https://github.com/ravi10299/BuyNest">
-        <img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧾 Store Billing Software</h3>
-      <p><b>Billing & Inventory Management</b></p>
-      <p>
-        Java · Spring Boot · React · MySQL
-      </p>
-      <hr>
-      • Inventory management<br>
-      • Billing system<br>
-      • Invoice generation<br>
-      • Stock management<br>
-      <br>
-      <a href="https://github.com/ravi10299/Store-Billing-Software">
-        <img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 BuyNest</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-21-DD0031?style=flat-square&logo=angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
+</p>
+
+**E-Commerce Application**
+
+- Product browsing
+- Shopping cart
+- Authentication workflows
+- Responsive interface
+- Angular Material
+
+<p align="center">
+  <a href="https://github.com/ravi10299/BuyNest">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=101827" />
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧾 Store Billing Software</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+**Billing & Inventory System**
+
+- Inventory management
+- Billing system
+- Invoice generation
+- Stock management
+- Discount management
+
+<p align="center">
+  <a href="https://github.com/ravi10299/Store-Billing-Software">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=101827" />
+  </a>
+</p>
+
+</td>
+</tr>
 </table>
 
 <p align="center">
   <a href="https://my-portfolio-five-eosin-43.vercel.app/">
-    <img src="https://img.shields.io/badge/EXPLORE%20MORE-Visit%20My%20Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-My%20Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101827" />
   </a>
 </p>
 
-<br>
+---
+
+<!-- ================ CODING ================ -->
 
 <h2 align="center">🧠 PROBLEM SOLVING</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/500%2B-DSA%20Problems%20Solved-22C55E?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/500%2B-DSA%20Problems%20Solved-00C853?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-Practice-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-<br>
+<p align="center">
+  <b>Areas of Practice</b>
+  <br>
+  Arrays • Strings • Collections • HashMap • Sorting • Searching • Recursion
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+</p>
+
+---
+
+<!-- ================ GITHUB ANALYTICS ================ -->
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
@@ -201,49 +247,63 @@
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=ravi10299&theme=tokyonight&hide_border=true" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=ravi10299&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+<!-- ================ CONTRIBUTION GRAPH ================ -->
+
+<h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi10299&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+<!-- ================ CAREER GOAL ================ -->
+
+<h2 align="center">🎯 WHAT I'M WORKING TOWARDS</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=750&lines=Mastering+Java+Backend+Engineering;Building+Scalable+Enterprise+Applications;Improving+Data+Structures+%26+Algorithms;Learning+Something+New+Every+Day" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ravi10299&theme=tokyo-night&hide_border=true&area=true" />
+  <i>"Code. Learn. Build. Repeat."</i>
 </p>
 
-<br>
+---
 
-<h2 align="center">🎯 MY DEVELOPMENT PHILOSOPHY</h2>
-
-<p align="center">
-  <i>"Great software is built with clean code, continuous learning and a problem-solving mindset."</i>
-</p>
-
-<p align="center">
-  Java Backend Engineering · Full Stack Development · Continuous Improvement
-</p>
-
-<br>
+<!-- ================ CONNECT ================ -->
 
 <h2 align="center">🤝 LET'S CONNECT</h2>
 
 <p align="center">
-  Open to connecting with developers, engineers and technology enthusiasts.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ravi10299">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="https://my-portfolio-five-eosin-43.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-38BDF8?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ravi10299">
+    <img src="https://img.shields.io/badge/LINKEDIN-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ravi.verma10299@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/EMAIL-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravi10299&style=for-the-badge&color=0EA5E9&label=PROFILE+VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=ravi10299&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
+</p>
+
+<!-- ================ ANIMATED FOOTER ================ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,40:00d4ff,100:7b2ff7&height=130&section=footer&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile! ⭐</b>
+  <b>⭐ THANK YOU FOR VISITING MY PROFILE ⭐</b>
+  <br>
+  <i>Let's create something amazing together!</i>
 </p>
