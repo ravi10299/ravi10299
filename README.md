@@ -1,213 +1,246 @@
-<!-- Animated Header -->
+<!-- ================= ANIMATED HEADER ================= -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4facfe,50:00f2fe,100:43e97b&text=Ravi%20Kumar%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Angular%2021%20%7C%20React&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4facfe,50:00f2fe,100:43e97b&text=Ravi%20Kumar%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Systems%20Engineer%20%40%20Infosys%20%7C%20Java%20Full%20Stack%20Developer&descAlignY=58" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Java+Developer;2%2B+Years+of+Professional+Experience;Spring+Boot+%7C+Spring+Security+%7C+Spring+AI;Angular+21+%7C+React+%7C+Microservices;REST+API+Developer;Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;3%2B+Years+of+Professional+Experience;Java+%7C+Spring+Boot+%7C+Spring+Security;Angular+%7C+TypeScript+%7C+JavaScript;REST+API+%7C+MySQL+%7C+Hibernate;Building+Scalable+Web+Applications+%F0%9F%9A%80" />
 </p>
 
+<!-- ================= SOCIAL LINKS ================= -->
+
 <p align="center">
-
-<a href="mailto:ravi.verma10299@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/ravi10299">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/ravi10299">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://ravi10299.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
+  <a href="mailto:ravi.verma10299@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ravi10299">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ravi10299">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://ravi10299.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-💻 Full Stack Java Developer with **2+ years** of professional experience in developing enterprise applications.
+Hello! I'm **Ravi Kumar Verma**, a Java Full Stack Developer currently working as a **Senior Systems Engineer at Infosys Limited**.
 
-🚀 Experienced in designing scalable software using
+I have **3+ years of professional experience**, including hands-on experience developing web applications using Java and modern frontend technologies.
 
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Spring AI
-- Microservices
-- Angular 21
-- React.js
+### 🚀 What I Do
 
-I enjoy solving complex backend problems while building beautiful and responsive frontends.
+- Develop backend applications using Java and Spring Boot.
+- Design and develop RESTful APIs.
+- Implement authentication and authorization using Spring Security and OAuth.
+- Build responsive frontend applications using Angular and TypeScript.
+- Work with relational databases, SQL and Hibernate.
+- Optimize database queries and application performance.
+- Write clean, maintainable and reusable code.
 
----
+### 🎯 My Technical Interests
 
-# 🚀 Current Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,angular,typescript,javascript,html,css,tailwind,bootstrap,mysql,git,github,postman,vscode,idea,eclipse" />
-
-</p>
+Java Development | Backend Engineering | Full Stack Development | Data Structures & Algorithms | System Design
 
 ---
 
 # 💼 Professional Experience
 
-## 🏢 Hindsol Software Private Limited
+### 🏢 Infosys Limited
 
-### Full Stack Java Developer
+**Senior Systems Engineer**
 
-**Nov 2023 - Present**
+📅 August 2026 – Present
 
-✔ Developed scalable enterprise applications using Spring Boot, React & Angular.
+- Working as a Senior Systems Engineer at Infosys.
+- Technical focus on Java Full Stack development and enterprise application technologies.
+- Continuously strengthening Java, Spring Boot, Angular and problem-solving skills.
 
-✔ Built secure REST APIs integrated with MySQL & Oracle.
+### 🏢 Hindsol Software Private Limited
 
-✔ Implemented Spring Security with OAuth Authentication.
+**Full Stack Java Developer**
 
-✔ Optimized Hibernate performance and database queries.
+📅 November 2023 – July 2026
 
-✔ Designed responsive UI using Angular, Tailwind CSS & React.
+- Developed backend functionality using Java and Spring Boot.
+- Designed and integrated RESTful APIs.
+- Implemented authentication and authorization using Spring Security and OAuth.
+- Developed responsive frontend components using Angular.
+- Worked with MySQL, Hibernate and relational database queries.
+- Improved database performance through query optimization, joins, pagination and indexing.
+- Tested APIs using Postman.
+- Managed source code using Git and GitHub.
 
-✔ API Testing using Postman.
+---
 
-✔ Version control using Git & GitHub.
+# 🛠️ Technical Skills
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+</p>
+
+- Core Java
+- OOP Concepts
+- Collections Framework
+- Java 8+ Features
+- Stream API
+- Multithreading
+- Exception Handling
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Hibernate
+- REST APIs
+- JWT Authentication
+- OAuth Authentication
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,tailwind,bootstrap" />
+</p>
+
+- Angular
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- RxJS
+- Angular Signals
+- Reactive Forms
+
+### Database Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- MySQL
+- SQL
+- DDL / DML / DQL
+- Joins
+- Subqueries
+- Indexing
+- Query Optimization
+- Database Design
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse,maven" />
+</p>
+
+- Git & GitHub
+- IntelliJ IDEA
+- Visual Studio Code
+- Eclipse
+- Postman
+- Maven
 
 ---
 
 # 🚀 Featured Projects
 
-## 👨‍💼 Enterprise User Management System
+### 1. 🛒 BuyNest – E-Commerce Application
 
-> Angular 21 • TypeScript • RxJS • REST API
+**Tech Stack:** Angular 21 | TypeScript | Angular Material | REST APIs
 
-✨ Features
+A modern e-commerce application focused on frontend development and shopping workflows.
 
-- CRUD Operations
-- Angular Signals
-- Reactive Forms
-- Lazy Loading
-- HTTPClient
-- Tailwind CSS
-- Modular Architecture
+**Key Features:**
+- Product browsing and shopping interface.
+- Cart management.
+- Authentication workflows.
+- Responsive user interface.
+- API integration.
 
----
-
-## 🛒 Store Billing Software
-
-Spring Boot • React • MySQL
-
-⭐ Features
-
-- Inventory Management
-
-- Billing System
-
-- Invoice Generation
-
-- Real-Time Stock Update
-
-- Discount Management
-
-🔗 Repository
-
-https://github.com/ravi10299/Store-Billing-Software
+🔗 **GitHub:** [BuyNest Repository](https://github.com/ravi10299/BuyNest)
 
 ---
 
-## 🌐 Personal Portfolio
+### 2. 🧾 Store Billing Software
 
-Responsive Portfolio Website
+**Tech Stack:** Java | Spring Boot | React | MySQL
 
-🔗
+A billing and inventory management application designed to simplify store operations.
 
-https://ravi10299.github.io/portfolio/
+**Key Features:**
+- Inventory Management.
+- Billing System.
+- Invoice Generation.
+- Real-Time Stock Updates.
+- Discount Management.
 
----
-
-# ⚙ Backend Skills
-
-```text
-Java
-Spring Boot
-Spring MVC
-Spring Security
-Spring AI
-Hibernate
-REST APIs
-Microservices
-JWT Authentication
-OAuth
-```
+🔗 **GitHub:** [Store Billing Software](https://github.com/ravi10299/Store-Billing-Software)
 
 ---
 
-# 🎨 Frontend Skills
+### 3. 👨‍💻 DevPrep Hub – Interview Preparation Platform
 
-```text
-Angular 21
-React
-TypeScript
-JavaScript
-HTML
-CSS
-Tailwind CSS
-Bootstrap
-RxJS
-Angular Signals
-```
+**Tech Stack:** Angular | TypeScript | RxJS
 
----
+An interview preparation platform designed to organize technical interview questions.
 
-# 🗄 Database
-
-```text
-MySQL
-Oracle
-SQL
-DDL
-DML
-DQL
-Joins
-Functions
-```
+**Key Features:**
+- Company-wise interview questions.
+- Difficulty-based filtering.
+- Search functionality.
+- Bookmarked questions.
+- Dark mode.
+- Responsive dashboard.
 
 ---
 
-# 🛠 Development Tools
+### 4. 🌐 Personal Portfolio
 
-```
-Git
-GitHub
-IntelliJ IDEA
-VS Code
-Eclipse
-Postman
-Maven
-```
+A responsive portfolio website showcasing my technical skills and development projects.
+
+🔗 **Live Portfolio:** [Visit Portfolio](https://ravi10299.github.io/portfolio/)
 
 ---
 
-# 📊 GitHub Analytics
+# 🧠 Problem Solving & DSA
+
+I enjoy solving programming challenges and improving my problem-solving skills.
+
+🏆 **500+ DSA Problems Solved**
+
+**Practice Platforms:**
+
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+
+**Areas of Practice:**
+
+- Arrays & Strings
+- Collections
+- HashMap & HashSet
+- Sorting & Searching
+- Recursion
+- Java Programming
+- Problem Solving
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravi10299&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi10299&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravi10299&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi10299&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ravi10299&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=ravi10299&theme=tokyonight&hide_border=true" width="75%" />
 </p>
 
 ---
@@ -215,45 +248,35 @@ Maven
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ravi10299&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ravi10299&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi10299&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi10299&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-# 🏅 Achievement
+# 🎯 Career Objective
 
-🏆 Solved **500+ DSA Problems**
+My goal is to become a skilled Full Stack Java Engineer by building scalable, secure and high-performance applications.
 
-Platforms
-
-- LeetCode
-- GeeksforGeeks
-- HackerRank
-
----
-
-# 🎯 Career Goal
-
-> Building scalable enterprise applications using modern Java technologies while continuously exploring Cloud, AI, and Microservices architecture.
+I continuously work on improving my technical knowledge, exploring modern development practices and solving real-world programming challenges.
 
 ---
 
 <p align="center">
+  <b>💡 Keep Learning | Keep Building | Keep Growing 🚀</b>
+</p>
 
-### ⭐ Thanks for visiting my profile ⭐
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravi10299&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=ravi10299&style=for-the-badge&color=blue"/>
-
+<p align="center">
+  <i>⭐ Thank you for visiting my GitHub profile! ⭐</i>
 </p>
