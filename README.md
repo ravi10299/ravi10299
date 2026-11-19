@@ -233,7 +233,9 @@
 <h2 align="center">🧠 PROBLEM SOLVING</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/500%2B-DSA%20Problems%20Solved-00C853?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=101827" />
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/500%2B-DSA%20Problems%20Solved-00C853?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=101827" />
+  </a>
 </p>
 
 <p align="center">
@@ -243,9 +245,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -255,8 +257,8 @@
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi10299&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi10299&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi10299&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=21600" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi10299&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" />
 </p>
 
 <p align="center">
@@ -272,7 +274,13 @@
 <h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi10299&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi10299&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=ffffff&area=true&hide_border=true&cache_seconds=21600" width="100%" />
+</p>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ravi10299/ravi10299/output/github-snake-dark.svg" alt="Contribution snake animation" width="100%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
